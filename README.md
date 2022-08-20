@@ -16,7 +16,7 @@ For you to get a local template, please follow the folowing prerequisite steps:
 Access the live source on - [Live Source](https://github.com/29td/React-Todo)
 Copy the **https** or **SSH** address on the code
 Clone the repository using your favorite code editor.
-Once you've open the repo on your VScode run it using index.html on src folder.
+Once you've open the repo on your VScode run it using npm start.
 
 ## Author
 
